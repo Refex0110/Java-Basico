@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "SobreMim",
+            "projectName": "java-terminal_a0fae9f6"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -22,6 +29,6 @@
                 "18",
                 "1.75"
             ]
-        },
+        }
     ]
 }
