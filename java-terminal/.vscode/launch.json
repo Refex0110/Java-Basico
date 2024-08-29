@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "java-terminal_a0fae9f6"
+        },
+        {
+            "type": "java",
+            "name": "ExWhile",
+            "request": "launch",
+            "mainClass": "ExWhile",
+            "projectName": "java-terminal_a0fae9f6"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaRep",
+            "request": "launch",
+            "mainClass": "EstruturaRep",
+            "projectName": "java-terminal_a0fae9f6"
+        },
+        {
+            "type": "java",
             "name": "CaixaEletronico",
             "request": "launch",
             "mainClass": "CaixaEletronico",
