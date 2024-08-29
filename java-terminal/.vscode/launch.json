@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "java-terminal_a0fae9f6"
+        },
+        {
+            "type": "java",
             "name": "SobreMim",
             "request": "launch",
             "mainClass": "SobreMim",
