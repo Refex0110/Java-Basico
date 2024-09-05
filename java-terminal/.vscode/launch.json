@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatarCep",
+            "request": "launch",
+            "mainClass": "FormatarCep",
+            "projectName": "java-terminal_a0fae9f6"
+        },
+        {
+            "type": "java",
             "name": "Excessoes",
             "request": "launch",
             "mainClass": "Excessoes",

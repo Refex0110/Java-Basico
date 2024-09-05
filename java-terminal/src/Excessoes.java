@@ -21,7 +21,8 @@ public class Excessoes {
             System.out.println(nome + " " + sobrenome);
             System.out.println(idade);
             System.out.println(altura);
-            scanner.close();
+            scanner.close();    
+                
     }catch(InputMismatchException e){
             System.out.println("Digite os campos de idade de altura com elementos numéricos");
     }
